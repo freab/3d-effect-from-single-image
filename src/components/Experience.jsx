@@ -230,7 +230,6 @@ export const Experience = () => {
   return (
     <>
       <Scene />
-      <OrbitControls enableZoom={false} />
     </>
   );
 };
